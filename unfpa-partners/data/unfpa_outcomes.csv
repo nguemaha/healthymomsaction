@@ -1,0 +1,205 @@
+Country_Name,"MMR per 100,000",MMR_LL,MMR_UL,Births_Attended,New_HIV,Any_Con_All,Any_Con_married,Modern_Con_All,Modern_Con_married,Unmet_Need_Fam_plan_All,Unmet_Need_Fam_plan_married,PM_All,Laws,UHC_Index,Country
+Afghanistan,620,406,1050,62,0.03,21,29,19,26,17,23,50,56,41,afghanistan
+Albania,8,4,16,100,0.02,33,45,6,6,12,16,12,79,64,albania
+Algeria,78,41,164,99,0.05,35,60,30,52,7,11,72,,74,algeria
+Angola,222,148,330,50,0.44,17,18,16,17,26,35,37,62,37,angola
+Antigua and Barbuda,21,11,36,99,,42,63,40,61,10,13,77,,76,antigua-barbuda
+Argentina,45,38,53,99,0.09,59,71,57,68,10,11,83,92,79,argentina
+Armenia,27,19,42,100,0.19,39,60,22,33,8,12,46,87,68,armenia
+Aruba,,,,,,,,,,,,,,,aruba
+Australia,3,2,4,96,,59,67,57,64,8,10,85,,87,australia
+Austria,5,4,8,98,,66,73,64,71,5,7,89,,85,austria
+Azerbaijan,41,22,69,100,0.05,37,58,16,24,9,13,35,,66,azerbaijan
+Bahamas,77,51,128,99,0.15,46,66,44,65,10,12,79,,77,bahamas
+Bahrain,16,13,19,100,,29,63,20,44,5,12,59,73,76,bahrain
+Bangladesh,123,89,174,59,0.01,52,64,45,56,9,11,74,,52,bangladesh
+Barbados,39,22,61,98,0.21,51,63,47,60,12,14,75,44,77,barbados
+Belarus,1,1,2,100,0.11,54,63,47,53,11,11,72,83,79,belarus
+Belgium,5,4,6,,0.04,59,67,58,67,6,8,91,,86,belgium
+Belize,130,105,161,95,0.35,46,58,43,54,14,17,72,43,68,belize
+Benin,523,397,768,78,0.11,18,20,15,16,24,30,36,91,38,benin
+Bhutan,60,40,82,99,0.08,40,62,39,60,8,12,81,83,60,bhutan
+Bolivia (Plurinational State of),161,103,272,81,0.16,49,68,37,51,11,15,61,94,65,bolivia
+Bosnia and Herzegovina,6,4,8,100,,39,51,20,22,9,13,42,70,66,bosnia-herzegovina
+Botswana,186,151,230,100,1.92,59,70,58,70,8,10,87,64,55,botswana
+Brazil,72,57,93,98,0.24,67,80,65,78,6,7,90,,80,brazil
+Brunei Darussalam,44,30,61,100,,,,,,,,,41,78,brunei-darussalam
+Bulgaria,7,5,10,95,0.03,66,81,52,60,5,6,73,62,73,bulgaria
+Burkina Faso,264,169,394,96,0.08,30,34,29,33,19,23,60,81,40,burkina-faso
+Burundi,494,353,694,77,0.1,21,34,18,31,16,27,51,65,41,burundi
+Cabo Verde,42,26,65,97,0.34,45,59,44,58,12,15,77,84,71,cabo-verde
+Cambodia,218,156,326,99,0.08,43,65,33,49,7,10,65,98,58,cambodia
+Cameroon,438,332,605,69,0.36,24,24,20,19,16,21,51,,44,cameroon
+Canada,11,9,15,98,,73,82,71,80,3,4,92,,91,canada
+Central African Republic,835,407,1519,40,1.57,22,24,17,19,21,25,40,77,32,central-african-republic
+Chad,1063,772,1586,47,0.22,8,9,7,8,19,25,27,59,29,chad
+Chile,15,13,17,100,0.25,65,78,60,72,6,8,85,,82,chile
+China,23,19,27,100,,71,85,69,83,4,3,92,,81,china
+"China, Hong Kong Special Administrative Region",,,,,,49,71,46,68,8,9,81,,,china-hong-kong-special-administrative-region
+"China, Macao Special Administrative Region",,,,,,,,,,,,,,,china-macao-special-administrative-region
+Colombia,75,65,86,99,0.16,65,82,61,77,5,6,87,96,80,colombia
+Comoros,217,131,367,82,0,21,29,17,24,19,29,44,,48,comoros
+Congo,282,194,429,91,2.89,43,46,31,30,14,18,54,55,41,congo
+Costa Rica,22,18,26,99,0.14,57,74,56,72,9,10,84,84,81,costa-rica
+Côte d'Ivoire,480,318,730,84,0.31,27,26,23,23,21,26,49,64,43,côte-divoire
+Croatia,5,3,7,100,0.02,50,71,36,47,5,8,65,98,80,croatia
+Cuba,39,35,44,100,0.18,69,72,68,71,8,9,88,,83,cuba
+Curaçao,,,,,,,,,,,,,,,curaçao
+Cyprus,68,47,99,99,,,,,,,,,72,81,cyprus
+Czechia,3,2,5,100,0.02,62,85,55,76,4,4,84,79,84,czechia
+Democratic People's Republic of Korea,107,46,249,100,,61,75,58,72,8,8,85,83,68,democratic-peoples-republic-korea
+Democratic Republic of the Congo,547,377,907,85,0.13,27,31,17,17,20,25,36,,42,democratic-republic-congo
+Denmark,5,4,6,95,0.01,64,77,61,73,5,6,88,87,82,denmark
+Djibouti,234,105,530,87,,17,32,17,31,14,25,54,,44,djibouti
+Dominica,,,,100,,46,64,44,62,10,13,78,,49,dominica
+Dominican Republic,107,87,133,99,0.37,55,68,53,66,10,13,82,,77,dominican-republic
+Ecuador,66,52,86,99,0.11,59,80,54,73,7,6,82,92,77,ecuador
+Egypt,17,13,22,97,0.05,45,62,43,60,9,12,81,,70,egypt
+El Salvador,43,31,61,100,0.13,53,74,50,69,8,10,82,92,78,el-salvador
+Equatorial Guinea,212,122,374,68,2.94,19,19,16,16,22,31,39,,46,equatorial-guinea
+Eritrea,322,207,508,34,0.06,9,15,9,14,15,28,35,,45,eritrea
+Estonia,5,3,9,100,0.1,58,71,50,60,5,7,78,98,79,estonia
+Eswatini,240,147,417,88,4.1,53,69,52,68,9,12,84,98,56,eswatini
+Ethiopia,267,189,427,50,0.08,31,42,30,41,15,20,67,73,35,ethiopia
+Fiji,38,28,55,100,0.33,35,51,30,44,12,16,65,,58,fiji
+Finland,8,6,13,100,,79,82,74,77,3,4,91,98,86,finland
+France,8,6,10,98,0.09,66,78,64,76,4,4,91,,85,france
+French Guiana,,,,,,,,,,,,,,,french-guiana
+French Polynesia,,,,,,,,,,,,,,,french-polynesia
+Gabon,227,141,383,89,0.83,39,39,31,29,18,23,55,58,49,gabon
+Gambia,458,333,620,84,0.6,15,21,14,20,16,24,46,,46,gambia
+Georgia,28,22,33,100,0.14,33,48,24,35,13,18,53,94,68,georgia
+Germany,4,4,5,96,,55,68,54,67,7,9,88,87,88,germany
+Ghana,263,180,376,79,0.53,27,36,24,32,19,26,52,66,48,ghana
+Greece,8,5,12,100,0.08,53,75,39,52,5,7,68,72,77,greece
+Grenada,21,12,34,100,,47,65,44,61,10,12,77,,70,grenada
+Guadeloupe,,,,,,40,59,37,53,10,15,73,,,guadeloupe
+Guam,,,,,,37,66,32,56,7,10,74,,,guam
+Guatemala,96,85,106,70,0.07,43,65,37,55,9,12,72,,59,guatemala
+Guinea,553,404,808,55,0.43,15,15,14,14,18,23,43,79,40,guinea
+Guinea-Bissau,725,475,1135,54,0.59,32,24,31,24,16,19,63,80,37,guinea-bissau
+Guyana,112,83,144,98,0.62,30,39,29,38,20,28,57,87,76,guyana
+Haiti,350,239,550,42,0.58,29,40,27,37,23,33,52,65,54,haiti
+Honduras,72,58,91,94,0.05,51,73,47,67,8,10,80,80,64,honduras
+Hungary,15,11,21,100,,50,70,45,63,7,9,80,93,79,hungary
+Iceland,3,1,4,97,0.04,,,,,,,,,89,iceland
+India,103,93,110,89,0.05,51,68,45,60,6,9,78,74,63,india
+Indonesia,173,121,271,95,0.09,44,63,42,60,8,11,82,77,55,indonesia
+Iran (Islamic Republic of),22,14,32,99,0.03,58,82,47,66,3,4,77,63,74,iran
+Iraq,76,50,121,96,0.01,38,57,27,41,8,12,59,59,59,iraq
+Ireland,5,4,7,100,,65,70,63,66,6,9,89,,83,ireland
+Israel,3,2,4,,,41,73,32,56,5,8,69,,85,israel
+Italy,5,4,6,100,0.04,60,67,49,52,6,9,75,,84,italy
+Jamaica,99,80,122,100,0.5,44,73,42,70,9,9,79,76,74,jamaica
+Japan,4,3,6,100,,47,53,41,42,12,17,69,85,83,japan
+Jordan,41,26,62,100,0,31,55,23,40,8,14,58,56,65,jordan
+Kazakhstan,13,10,18,100,,43,54,40,51,10,14,76,65,80,kazakhstan
+Kenya,530,382,750,70,0.46,49,65,47,63,11,14,78,48,53,kenya
+Kiribati,76,33,146,92,,24,32,20,27,17,23,49,,48,kiribati
+Kuwait,7,5,11,100,,36,60,30,50,8,13,68,,78,kuwait
+Kyrgyzstan,50,37,70,100,0.11,29,43,28,40,12,17,68,73,69,kyrgyzstan
+Lao People's Democratic Republic,126,92,185,64,0.14,39,62,35,55,9,13,72,96,52,lao-peoples-democratic-republic
+Latvia,18,14,25,100,0.19,59,72,52,62,6,8,81,70,75,latvia
+Lebanon,21,18,24,98,,33,62,25,47,7,12,63,,73,lebanon
+Lesotho,566,385,876,87,3.03,52,67,51,67,9,13,84,,53,lesotho
+Liberia,652,499,900,84,0.24,28,28,27,27,25,31,51,,45,liberia
+Libya,72,31,165,100,,25,41,17,27,15,25,41,,62,libya
+Lithuania,9,5,14,100,0.06,48,72,40,58,6,8,74,87,75,lithuania
+Luxembourg,6,4,12,100,0.06,,,,,,,,,83,luxembourg
+Madagascar,392,311,517,46,0.3,42,53,38,47,13,14,69,,35,madagascar
+Malawi,381,269,543,96,0.81,50,67,49,66,12,14,79,79,48,malawi
+Malaysia,21,18,29,100,0.09,36,58,26,42,9,14,59,83,76,malaysia
+Maldives,57,40,83,100,0.01,18,24,14,19,22,29,36,93,61,maldives
+Mali,440,335,581,67,0.28,19,21,19,21,21,24,47,,41,mali
+Malta,3,2,5,100,0.09,61,79,50,63,4,5,76,,85,malta
+Martinique,,,,,,41,61,38,56,10,14,74,,,martinique
+Mauritania,464,337,655,70,0.12,10,14,9,13,22,32,30,65,40,mauritania
+Mauritius,84,62,115,100,,44,67,30,46,7,9,59,75,66,mauritius
+Mexico,59,46,74,97,0.16,55,74,53,71,9,10,82,86,75,mexico
+Micronesia (Federated States of),74,32,169,100,,,,,,,,,,48,micronesia
+Mongolia,39,28,55,99,0.01,42,58,38,53,12,15,71,,65,mongolia
+Montenegro,6,3,11,99,0.02,23,27,16,17,15,21,43,52,72,montenegro
+Morocco,72,51,96,87,0.02,43,71,37,62,7,10,75,,69,morocco
+Mozambique,127,99,157,73,3.2,29,33,28,31,18,21,60,,44,mozambique
+Myanmar,179,125,292,60,0.21,35,59,34,58,8,13,80,91,52,myanmar
+Namibia,215,154,335,88,2.39,53,62,53,61,10,14,84,88,63,namibia
+Nepal,174,125,276,77,0.02,42,55,37,49,15,21,65,48,54,nepal
+Netherlands,4,3,6,,,63,72,61,70,5,7,89,100,85,netherlands
+New Caledonia,,,,,,,,,,,,,,,new-caledonia
+New Zealand,7,5,9,97,0.01,65,81,61,75,5,5,88,95,85,new-zealand
+Nicaragua,78,54,109,94,0.08,59,82,57,79,6,6,88,75,70,nicaragua
+Niger,441,305,655,44,0.06,12,15,12,14,16,20,41,,35,niger
+Nigeria,1047,793,1565,51,,18,21,14,16,15,19,43,,38,nigeria
+North Macedonia,3,1,6,100,0.03,44,54,21,21,9,13,40,,74,north-macedonia
+Norway,2,1,3,99,,66,85,61,79,3,3,89,100,87,norway
+Oman,17,12,25,100,0.03,22,37,16,26,14,25,43,70,70,oman
+Pakistan,154,109,226,68,,27,40,20,31,11,17,54,69,45,pakistan
+Panama,50,46,54,95,0.32,49,61,46,57,14,17,74,72,78,panama
+Papua New Guinea,192,126,293,56,0.65,28,39,24,33,17,24,52,,30,papua-new-guinea
+Paraguay,71,60,82,92,,60,73,56,68,8,8,83,76,72,paraguay
+Peru,69,59,80,95,0.17,51,77,40,58,5,6,71,85,71,peru
+Philippines,78,67,96,84,0.21,36,58,27,44,10,15,60,80,58,philippines
+Poland,2,1,3,100,,54,74,44,59,6,7,73,89,82,poland
+Portugal,12,8,18,99,0.06,59,74,51,63,5,7,79,95,88,portugal
+Puerto Rico,34,25,54,,,51,82,47,74,7,5,81,,,puerto-rico
+Qatar,8,5,11,100,0.04,33,50,28,42,10,15,65,71,76,qatar
+Republic of Korea,8,7,9,100,,56,81,51,74,6,5,82,,89,republic-korea
+Republic of Moldova,12,9,17,100,0.34,49,59,40,47,12,15,65,,71,republic-moldova
+Réunion,,,,,,52,72,50,71,8,9,84,,,réunion
+Romania,10,7,14,93,0.03,54,71,46,59,6,8,76,98,78,romania
+Russian Federation,14,9,20,100,,49,68,42,58,7,9,75,70,79,russian-federation
+Rwanda,259,184,383,94,0.24,40,67,37,61,9,12,76,82,49,rwanda
+Saint Kitts and Nevis,,,,100,,49,61,46,57,12,14,76,,79,saint-kitts-nevis
+Saint Lucia,73,44,127,100,,49,61,46,58,12,14,76,33,77,saint-lucia
+Saint Vincent and the Grenadines,62,40,92,99,,51,67,49,64,10,12,80,81,69,saint-vincent-grenadines
+Samoa,59,26,137,89,,14,22,13,20,28,42,32,22,55,samoa
+San Marino,,,,,,,,,,,,,,77,san-marino
+Sao Tome and Principe,146,74,253,97,0.06,38,51,36,48,20,24,61,46,59,sao-tome-principe
+Saudi Arabia,16,11,22,95,0.04,21,33,18,27,15,24,49,,74,saudi-arabia
+Senegal,261,197,376,75,0.09,22,31,21,30,14,21,58,75,50,senegal
+Serbia,10,8,14,100,0.02,49,59,29,29,7,11,51,99,72,serbia
+Seychelles,3,3,4,100,,,,,,,,,,75,seychelles
+Sierra Leone,443,344,587,87,0.44,28,27,28,26,19,24,58,65,41,sierra-leone
+Singapore,7,5,11,100,,40,69,36,61,6,10,78,46,89,singapore
+Sint Maarten (Dutch part),,,,,,,,,,,,,,,sint-maarten
+Slovakia,5,3,6,98,0.02,55,79,47,67,5,6,79,86,82,slovakia
+Slovenia,5,3,7,100,,52,79,44,67,4,5,79,,84,slovenia
+Solomon Islands,122,75,197,86,,24,33,20,27,13,18,54,,47,solomon-islands
+Somalia,621,283,1184,32,,8,10,2,2,17,26,9,,27,somalia
+South Africa,127,99,154,97,3.15,52,59,51,59,11,14,82,95,71,south-africa
+South Sudan,1223,746,2009,40,0.79,7,9,6,8,21,29,23,16,34,south-sudan
+Spain,3,3,4,100,,62,64,60,62,7,12,87,,85,spain
+Sri Lanka,29,24,38,100,0.01,45,68,37,56,5,7,74,86,67,sri-lanka
+State of Palestine1,20,15,26,100,,40,62,30,47,7,10,64,68,,state-palestine1
+Sudan,270,174,420,78,0.09,12,17,11,16,17,27,37,57,44,sudan
+Suriname,96,70,128,98,0.76,35,49,35,48,14,21,70,,63,suriname
+Sweden,5,3,6,,,59,71,56,68,6,8,87,100,85,sweden
+Switzerland,7,5,11,,,73,73,68,68,4,7,89,94,86,switzerland
+Syrian Arab Republic,30,19,47,96,0,34,63,26,47,7,12,63,81,64,syrian-arab-republic
+Tajikistan,17,9,31,95,0.1,25,34,23,31,16,21,57,,67,tajikistan
+Thailand,29,24,34,99,0.13,49,77,48,75,4,6,90,,82,thailand
+Timor-Leste,204,147,283,57,0.07,20,34,18,31,13,22,55,,52,timor-leste
+Togo,399,253,576,69,0.28,25,28,23,26,22,30,49,,44,togo
+Tonga,126,55,289,98,,20,34,17,29,14,25,50,,57,tonga
+Trinidad and Tobago,27,19,36,100,,41,50,37,46,14,19,66,27,75,trinidad-tobago
+Tunisia,37,24,49,100,,33,60,29,51,8,12,70,,67,tunisia
+Türkiye,17,13,23,97,,48,72,33,50,6,9,62,78,76,türkiye
+Turkmenistan,5,3,9,100,,36,54,33,50,8,12,77,94,75,turkmenistan
+Turks and Caicos Islands,,,,100,,37,39,36,38,19,23,64,,,turks-caicos-islands
+Tuvalu,,,,100,,20,27,18,24,20,28,46,,52,tuvalu
+Uganda,284,191,471,74,1.21,38,51,34,45,15,20,64,,49,uganda
+Ukraine,17,13,22,100,,54,68,45,56,6,9,75,95,76,ukraine
+United Arab Emirates,9,5,17,99,,38,53,31,42,12,16,62,,82,united-arab-emirates
+United Kingdom of Great Britain and Northern Ireland,10,8,12,,,72,76,65,69,4,6,86,96,88,united-kingdom-great-britain-northern-ireland
+United Republic of Tanzania,238,174,381,64,0.54,38,47,34,42,15,19,64,,43,united-republic-tanzania
+United States of America,21,16,27,99,,61,76,54,67,5,5,81,,86,united-states-america
+United States Virgin Islands,,,,,,45,75,42,70,8,8,79,,,united-states-virgin-islands
+Uruguay,19,15,23,100,0.24,59,79,57,77,6,7,87,97,82,uruguay
+Uzbekistan,30,23,40,99,,49,70,46,66,6,8,84,92,75,uzbekistan
+Vanuatu,94,43,211,89,,38,49,33,42,15,19,62,,47,vanuatu
+Venezuela (Bolivarian Republic of),259,191,381,99,,56,76,53,72,8,9,83,,75,venezuela
+Viet Nam,46,33,60,96,0.06,58,79,48,66,4,5,78,54,68,viet-nam
+Western Sahara,,,,,,,,,,,,,,,western-sahara
+Yemen,183,120,271,45,0.03,29,46,21,34,14,22,51,65,42,yemen
+Zambia,135,100,201,80,1.86,38,54,37,52,15,17,70,91,56,zambia
+Zimbabwe,357,255,456,86,1.12,51,70,50,69,8,9,86,73,55,zimbabwe
