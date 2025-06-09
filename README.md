@@ -1,15 +1,15 @@
 # Data Project Template
 
-<a target="_blank" href="https://datalumina.com/">
-    <img src="https://img.shields.io/badge/Datalumina-Project%20Template-2856f7" alt="Datalumina Project" />
+<a target="_blank" href="https://healthymomsaction.com/">
+    <img src="https://img.shields.io/badge/Datalumina-Project%20Template-2856f7" alt="Healthy Moms Action" />
 </a>
 
-## Cookiecutter Data Science
-This project template is a simplified version of the [Cookiecutter Data Science](https://cookiecutter-data-science.drivendata.org) template, created to suit the needs of Datalumina and made available as a GitHub template.
+## Healthy Moms Action
+This repos contains analysis related to Healthy Moms Action.
 
 ## Adjusting .gitignore
 
-Ensure you adjust the `.gitignore` file according to your project needs. For example, since this is a template, the `/data/` folder is commented out and data will not be exlucded from source control:
+Ensure you adjust the `.gitignore` file according to your project needs. 
 
 ```plaintext
 # exclude data from source control by default
